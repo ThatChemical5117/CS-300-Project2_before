@@ -1,0 +1,7 @@
+Update to be a full stack application with a database
+
+- Add a client side
+- Add a admin panel
+- Add login?
+- Add new courses ( Other than CS courses )
+- Credit tracker

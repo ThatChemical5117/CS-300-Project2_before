@@ -1,0 +1,11 @@
+Makefile
+**/Makefile
+Debug
+**/obj
+compile_commands.json
+**/.obj
+**/.dep
+**/.cache
+
+
+
